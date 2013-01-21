@@ -1,0 +1,256 @@
+<!DOCTYPE HTML>
+<!--
+	Halcyonic 2.5 by HTML5 Up!
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Miller's Coins and Currency</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<noscript><link rel="stylesheet" href="css/5grid/core.css" /><link rel="stylesheet" href="css/5grid/core-desktop.css" /><link rel="stylesheet" href="css/5grid/core-1200px.css" /><link rel="stylesheet" href="css/5grid/core-noscript.css" /><link rel="stylesheet" href="css/style.css" /><link rel="stylesheet" href="css/style-desktop.css" /></noscript>
+		<script src="css/5grid/jquery.js"></script>
+		<script src="css/5grid/init.js?use=mobile,desktop,1000px&amp;mobileUI=1&amp;mobileUI.theme=none&amp;mobileUI.titleBarHeight=55&amp;mobileUI.openerWidth=75&amp;mobileUI.openerText=&lt;"></script>
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/style-ie9.css" /><![endif]-->
+
+h1 {color:#FFD700;}
+	</head>
+	<body>
+
+		<!-- Header -->
+			<div id="header-wrapper">
+				<header id="header" class="5grid-layout">
+					<div class="row">
+						<div class="12u">
+						
+							<!-- Logo -->
+
+<h1>
+
+
+<a href="#" class="mobileUI-site-name">Miller's Coins and Currency      <img src="images/stgaudens.png" alt="" /></a>
+
+</h1>
+
+							<!-- Nav -->
+								<nav class="mobileUI-site-nav">
+									<a href="index.html">Homepage</a>
+									<a href="onecolumn.html">What We Buy</a>
+								</nav>
+
+						</div>
+					</div>
+				</header>
+				<div id="banner">
+					<div class="5grid-layout">
+						<div class="row">
+							<div class="6u">
+							
+								<!-- Banner Copy -->
+									<p>We are here for all your precious metal needs!</p>
+
+
+									<a href="#" class="button-big">Click For Directions!</a>
+
+							</div>
+							<div class="6u">
+								
+								<!-- Banner Image -->
+									<a href="#" class="bordered-feature-image"><img src="images/banner.jpg" alt="" /></a>
+							
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		<!-- Features -->
+			<div id="features-wrapper">
+				<div id="features">
+					<div class="5grid-layout">
+						<div class="row">
+							<div class="3u">
+							
+								<!-- Feature #1 -->
+									<section>
+										<a href="#" class="bordered-feature-image"><img src="images/pic01.jpg" alt="" /></a>
+										<h2>Welcome to Miller's!</h2>
+										<p>
+We use controlled entry in our building; We have a secure and safe location to conduct your business.
+										</p>
+									</section>
+
+							</div>
+							<div class="3u">
+								
+								<!-- Feature #2 -->
+									<section>
+										<a href="tel:+9123309919" class="bordered-feature-image"><img src="images/pic02.jpg" alt=""/></a>
+										<h2>Have a Question?</h2>
+										<p>
+Maybe you are wondering about a certain coin's value? Tap the phone above or call us at : <a href="tel:+9123309919">912-330-9919</a>										
+
+</p>
+									</section>
+
+							</div>
+							<div class="3u">
+								
+								<!-- Feature #3 -->
+									<section>
+										<a href="#" class="bordered-feature-image"><img src="images/pic03.jpg" alt="" /></a>
+										<h2>Coins</h2>
+										<p>
+										We buy and sell US Gold and Silver Eagles.
+										</p>
+									</section>
+
+							</div>
+							<div class="3u">
+								
+								<!-- Feature #4 -->
+									<section>
+										<a href="#" class="bordered-feature-image"><img src="images/pic04.jpg" alt="" /></a>
+										<h2>Sterling Flatware</h2>
+										<p>
+Do you have scrap or collectible sterling flatware? If so come see us at Miller's Coins and Currency! We guarantee to give you the best price.
+										</p>
+									</section>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		<!-- Content -->
+			<div id="content-wrapper">
+				<div id="content">
+					<div class="5grid-layout">
+						<div class="row">
+							<div class="4u">
+
+								<!-- Box #1 -->
+									<section>
+										<header>
+											<h2>Who We Are</h2>
+											<h3>Savannah's #1 Coin and Prescious Metals Dealer</h3>
+										</header>
+										<a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a>
+										<p>
+Don't trust your coins with just anyone, bring them to Miller's Coins and Currency for a free verbal appraisal.
+										</p>
+									</section>
+
+							</div>
+							<div class="4u">
+
+								<!-- Box #2 -->
+									<section>
+										<header>
+											<h2>What We Do</h2>
+											<h3>Simply Put: Precious Metals</h3>
+										</header>
+										<ul class="check-list">
+											<li>Why take your coins anywhere except a coin shop? Bring them to Miller's Coin and Currency!</li>
+											<li>We buy used and broken jewelry, dental metals, flatware, Rolexes, diamons, jewls, and gemstones.</li>
+											<li>We buy and sell investment grade Gold and Silver bullion.</li>
+											<li>We are an authorized Whites Metal Detector dealer, serving the Costal Empire and Low Country.</li>
+										</ul>
+									</section>
+
+							</div>
+							<div class="4u">
+								
+								<!-- Box #3 -->
+									<section>
+										<header>
+											<h2>What People Are Saying</h2>
+											<h3></h3>
+										</header>
+										<ul class="quote-list">
+											<li>
+												<img src="images/pic06.jpg" alt="" />
+												<p>"Safe and secure, I like that."</p>
+												<span>Anonymous</span>
+											</li>
+											<li>
+												<img src="images/pic07.jpg" alt="" />
+												<p>"Miller's were very business-like in their dealings with me..."</p>
+												<span>Nathan
+</span>											
+</li>
+											<li>
+												<img src="images/pic08.jpg" alt="" />
+												<p>"The only metals dealer I go to!"</p>
+												<span>Will</span>
+											</li>
+										</ul>
+									</section>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		<!-- Footer -->
+			<div id="footer-wrapper">
+				<footer id="footer" class="5grid-layout">
+					<div class="row">
+						<div class="8u">
+						
+							<!-- Links -->
+								<section>
+									<h2></h2>
+									<div class="5grid">
+										<div class="row">
+											<div class="3u">
+												<ul class="link-list last-child">
+													<li><a href="#"></a></li>
+												</ul>
+											</div>
+											<div class="3u">
+												<ul class="link-list last-child">
+													<li><a href="#"></a></li>
+												</ul>
+											</div>
+											<div class="3u">
+												<ul class="link-list last-child">
+													<li><a href="#"></a></li>
+												</ul>
+											</div>
+											<div class="3u">
+												<ul class="link-list last-child">
+													<li><a href="#"></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</section>
+
+						</div>
+						<div class="4u">
+							
+							<!-- Blurb -->
+								<section>
+									<h2></h2>
+									<p>
+									
+									</p>
+								</section>
+						
+						</div>
+					</div>
+				</footer>
+			</div>
+
+		<!-- Copyright -->
+			<div id="copyright">
+				&copy; Miller's Coins and Currency. All rights reserved. | Design: <a href="http://html5up.net">HTML5 Up!</a>
+			</div>
+
+	</body>
+</html>
